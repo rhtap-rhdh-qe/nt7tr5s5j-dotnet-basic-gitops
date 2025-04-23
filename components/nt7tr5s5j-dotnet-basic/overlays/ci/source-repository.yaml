@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: nt7tr5s5j-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/nt7tr5s5j-dotnet-basic
